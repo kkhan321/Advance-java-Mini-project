@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+#lside {
+	width: 200px;
+	height: 100%;
+	background: black;
+	padding: 20px;
+	position: fixed;
+	left: 0%;
+	top: 0%;
+}
+
+#lside a {
+	color: white;
+}
+
+#lside a:hover {
+	background: limegreen;
+}
+
+#main {
+	margin-left: 300px
+}
